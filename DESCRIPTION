@@ -1,0 +1,11 @@
+Package: finalLgpackage
+Type: Package
+Title:Gives linear regression coefficients
+Version: 1.0
+Date: 2019-09-28
+Author: Vinod Kumar Dasari and Gowtham Kukkemane Mahalingabhat
+Maintainer: Vinod kumar and Gowtham Kukkemane Mahalingabhat<dvinodkumar1996@gmail.com>
+Description: The package contains a function named linreg. The function contains a class which pocess many methods which performs methods of lm function and plots.
+License: MIT + file LICENSE
+Depends: R (>= 2.10)
+RoxygenNote: 6.1.1
